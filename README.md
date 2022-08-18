@@ -1,20 +1,20 @@
 # 장인혁 포토플리오
 
-## Intro
+## 📌Intro
 
 > 이름 : 장인혁 <br>
 > 취미 : 헬스, 풋살, 여행
 
-## Contact
+## 📌Contact
 
 > Email : dlsgur0311@gmail.com<br>
 > Github : https://github.com/In-HyeokJang<br>
 
-## Projects
+## 📌Projects
 
-### 1.[Shopping Mall](https://github.com/In-HyeokJang/Shopping-mall_Portfolio)
+### 1.[Shopping Mall](https://github.com/In-HyeokJang/Shopping-mall_Portfolio) - GitHub주소
 
-> 의류(옷, 신발, 가방) (개인 프로젝트)
+> 👗의류(옷, 신발, 가방) (개인 프로젝트)
 
 - 개발 기간: 2022.06.20 ~ 06.22
 - 참여 인원: 1명
@@ -50,9 +50,9 @@
 
 ---
 
-### 2. [EV_Rent_Car] - https://evrent.ml/
+### 2. [EV_Rent_Car] - https://evrent.ml/ [Github -tim](https://github.com/ISOSIM/Rent-Car-electtronic/tree/jih)
 
-> 전기차 렌트 + 충전소 위치 + 편의시설 안내(팀 프로젝트)
+> 🚘전기차 렌트 + 충전소 위치 + 편의시설 안내(팀 프로젝트)
 
 - 개발 기간: 2022.06.30 ~ 08.19
 - 참여 인원: 6명
