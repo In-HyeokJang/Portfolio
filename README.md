@@ -9,7 +9,7 @@
 
 > Email : dlsgur0311@gmail.com<br>
 > Github : https://github.com/In-HyeokJang<br>
-> Notion : https://in-hyeokjang.notion.site/in-hyeokjang/Ethan-c6951f05056149679b12d237b8fe53fe<br>
+> Notion : https://www.notion.so/in-hyeokjang/Ethan-c6951f05056149679b12d237b8fe53fe<br>
 
 ## 📌Projects
 
