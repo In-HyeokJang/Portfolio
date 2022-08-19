@@ -20,7 +20,7 @@
 - 개발 기간: 2022.06.20 ~ 06.22
 - 참여 인원: 1명
 - 역할: 메인페이지, 회원가입, 로그인, 로그아웃, 주문내역 조회, 장바구니, 결제 부분 기능 구현
-- 사용 기술: Java8 / Springboot / MySQL / HTML / Css / Javascript / MyBatis / JSTL /JSON
+- 사용 기술: Java11 / Springboot / MySQL / HTML / Css / Javascript / MyBatis / JSTL /JSON
 
 > 프로젝트 상세 설명
 
@@ -53,7 +53,7 @@
 
 - 개발 기간: 2022.06.30 ~ 08.19
 - 참여 인원: 6명
-- 사용 기술: Java8 / MySQL / HTML / CSS / Javascript / JSOP / Springboot / KakaoMap API / Naver Cloud Platform / Gradle
+- 사용 기술: Java11 / MySQL / HTML / CSS / Javascript / JSOP / Springboot / KakaoMap API / Naver Cloud Platform / Gradle
 
 > 프로젝트 상세 설명
 
