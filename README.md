@@ -47,9 +47,11 @@
 
 ---
 
-### 2. [EV_Rent_Car] - https://evrent.ml/
+### 2. [EV_Rent_Car]
 
 [Github -tim](https://github.com/ISOSIM/Rent-Car-electtronic/tree/jih)
+
+[시연 동영상](https://youtu.be/A0iuizxd66w)
 
 > 🚘전기차 렌트 + 충전소 위치 + 편의시설 안내(팀 프로젝트)
 
