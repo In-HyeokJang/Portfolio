@@ -1,5 +1,7 @@
 # 장인혁 포토플리오
 
+> [기능, ppt, 시연동영상 위주 설명 포토플리오](https://docs.google.com/presentation/d/1xjTVfTdojbl89sd9YhfECHn45R5KibRACITD_8CbgMw/edit#slide=id.g148a1d52590_0_82)
+
 ## 📌Intro
 
 > 이름 : 장인혁 <br>
