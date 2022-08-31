@@ -1,6 +1,6 @@
 # 장인혁 포토플리오
 
-> [기능, ppt, 시연동영상 위주 설명 포토플리오](https://docs.google.com/presentation/d/1xjTVfTdojbl89sd9YhfECHn45R5KibRACITD_8CbgMw/edit#slide=id.gc6f80d1ff_0_0)
+> [기능, ppt, 시연동영상 위주 설명 포토플리오](https://docs.google.com/presentation/d/1xjTVfTdojbl89sd9YhfECHn45R5KibRACITD_8CbgMw/edit?usp=sharing)
 
 ## 📌Intro
 
