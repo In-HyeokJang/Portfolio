@@ -51,7 +51,7 @@
 
 ### 2. [EV_Rent_Car]
 
-[Github -tim](https://github.com/ISOSIM/Rent-Car-electtronic/tree/jih)
+[Github -Team](https://github.com/ISOSIM/Rent-Car-electtronic/tree/jih)
 
 [시연 동영상](https://youtu.be/A0iuizxd66w)
 
